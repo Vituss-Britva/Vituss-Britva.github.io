@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Allow: /catalog/
+Allow: /privacy/
+Disallow: /private/
+Disallow: /*.json$
+Crawl-delay: 1
+Request-rate: 30/1m
+
+# XML Sitemap
+Sitemap: https://vituss-britva.github.io/sitemap.xml
+Sitemap: https://vituss.site/sitemap.xml
