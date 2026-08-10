@@ -1,0 +1,4 @@
+Contact: https://vituss.site/privacy/
+Expires: 2027-08-10T00:00:00Z
+Language: ru
+Canonical: https://vituss.site/.well-known/security.txt
